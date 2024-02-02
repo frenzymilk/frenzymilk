@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 👨‍💻 Cybersecurity Projects:
 
 - <b>Python</b>
-  - [Basic email analysis for phishing detection]()
+  - [Basic email analysis for phishing detection](https://github.com/frenzymilk/email-analysis)
 
 ## Certifications
 
