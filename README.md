@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I'm Pernelle! 👋
+# <a href="https://www.linkedin.com/in/pernelle-mensah-916659161">Cybersecurity Professional</a>, <a href="https://theses.hal.science/tel-02416305">PhD.</a>
 
 <!--
 **frenzymilk/frenzymilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👨‍💻 Cybersecurity Projects:
+
+- <b>Python</b>
+  - [Basic email analysis for phishing detection]()
+
+## Certifications
+
+- [CISSP](https://www.credly.com/badges/15b6a2db-7a1c-4429-af30-8e5092582ebc)
+
+## 💬 Research articles
+
+- [AJNA: anti-phishing JS-based visual analysis, to mitigate users' excessive trust in SSL/TLS](https://ieeexplore.ieee.org/abstract/document/7809536/)
+- [Dynamic Topology Extraction in Cloud Infrastructures](https://inria.hal.science/hal-01399251/document)
+- [Connectivity graph reconstruction for networking cloud infrastructures](https://ieeexplore.ieee.org/abstract/document/8171337/)
+- [Generation and dynamic update of attack graphs in cloud providers infrastructures](https://inria.hal.science/tel-02416305/)
+
+## 🤳 Connect with me:
+
+[<img align="left" alt="PernelleMensah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/pernelle-mensah-916659161
+
+
+
