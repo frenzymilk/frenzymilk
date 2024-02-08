@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 - <b>Python</b>
   - [Basic email analysis for phishing detection](https://github.com/frenzymilk/email-analysis)
+  - [Simple network scanning](https://github.com/frenzymilk/network_scanning)
+  - [Simple SQL injection scanning](https://github.com/frenzymilk/simple_sql_injection_scanner)
+  - [DNS Exploration](https://github.com/frenzymilk/dns_exploration)
 
 ## Certifications
 
