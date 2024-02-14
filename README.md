@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 - [CISSP](https://www.credly.com/badges/15b6a2db-7a1c-4429-af30-8e5092582ebc)
 
+## 💬 PhD. Thesis
+- [Generation and Dynamic Update of Attack Graphs in Cloud Providers Infrastructures](https://theses.hal.science/tel-02416305)
 ## 💬 Research articles
 
 - [AJNA: anti-phishing JS-based visual analysis, to mitigate users' excessive trust in SSL/TLS](https://ieeexplore.ieee.org/abstract/document/7809536/)
