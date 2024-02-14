@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - [SOC deployment using AWS, Terraform and Github action](https://github.com/frenzymilk/soc_automation_project)
 
 - GRC
-  - Access management policy
+  - [Access management policy example](https://github.com/frenzymilk/access_management_policy_roughDraft)
 
 ## Certifications
 
