@@ -23,6 +23,12 @@ Here are some ideas to get you started:
   - [Simple network scanning](https://github.com/frenzymilk/network_scanning)
   - [Simple SQL injection scanning](https://github.com/frenzymilk/simple_sql_injection_scanner)
   - [DNS Exploration](https://github.com/frenzymilk/dns_exploration)
+ 
+- Cloud
+  - [SOC deployment using AWS, Terraform and Github action](https://github.com/frenzymilk/soc_automation_project)
+
+- GRC
+  - Access management policy
 
 ## Certifications
 
