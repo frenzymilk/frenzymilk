@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 - GRC
   - [Access management policy example](https://github.com/frenzymilk/access_management_policy_roughDraft)
+ 
+- IaC
+  - [CI/CD infrastructure deployment on AWS using Terraform](https://github.com/frenzymilk/aws-labs/tree/master)
 
 ## Certifications
 
