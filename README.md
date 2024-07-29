@@ -26,6 +26,9 @@ Here are some ideas to get you started:
  
 - Cloud
   - [SOC deployment using AWS, Terraform and Github action](https://github.com/frenzymilk/soc_automation_project)
+  - [Hosting of static HTTPS website using S3and Amzaon CloudFront](https://github.com/frenzymilk/https_static_website)
+  - [Serveless lab using DynamoDB, Lambda and API Gateway](https://github.com/frenzymilk/serverless_lab)
+  - [CI/CD infrastructure deployment on AWS using Terraform](https://github.com/frenzymilk/aws-labs/tree/master)
 
 - GRC
   - [Access management policy example](https://github.com/frenzymilk/access_management_policy_roughDraft)
