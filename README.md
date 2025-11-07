@@ -50,11 +50,5 @@ Here are some ideas to get you started:
 - [Connectivity graph reconstruction for networking cloud infrastructures](https://ieeexplore.ieee.org/abstract/document/8171337/)
 - [Generation and dynamic update of attack graphs in cloud providers infrastructures](https://inria.hal.science/tel-02416305/)
 
-## 🤳 Connect with me:
-
-[<img align="left" alt="PernelleMensah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/pernelle-mensah-916659161
-
 
 
