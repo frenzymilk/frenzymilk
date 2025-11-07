@@ -25,9 +25,9 @@ Here are some ideas to get you started:
   - [DNS Exploration](https://github.com/frenzymilk/dns_exploration)
  
 - Cloud
-  - Cloud Resume Challenge : [Frontend](https://github.com/frenzymilk/frontend_cloud_resume_challenge_2025) & [Backend](https://github.com/frenzymilk/backend_cloud_resume_challenge_2025)
-  - [SOC deployment using AWS, Terraform and Github action](https://github.com/frenzymilk/soc_automation_project)
-  - [Hosting of static HTTPS website using S3and Amzaon CloudFront](https://github.com/frenzymilk/https_static_website)
+  - Cloud Resume Challenge - Fully automated serverless website : [Frontend](https://github.com/frenzymilk/frontend_cloud_resume_challenge_2025) & [Backend](https://github.com/frenzymilk/backend_cloud_resume_challenge_2025)
+  - [SOC deployment using AWS, Terraform and Github Actions](https://github.com/frenzymilk/soc_automation_project)
+  - [Hosting of static HTTPS website using S3 and Amazon CloudFront](https://github.com/frenzymilk/https_static_website)
   - [Serveless lab using DynamoDB, Lambda and API Gateway](https://github.com/frenzymilk/serverless_lab)
   - [CI/CD infrastructure deployment on AWS using Terraform](https://github.com/frenzymilk/aws-labs/tree/master)
 
