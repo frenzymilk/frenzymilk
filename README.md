@@ -1,5 +1,5 @@
 # Hi, I'm Pernelle! 👋
-# <a href="https://www.linkedin.com/in/pernelle-mensah-916659161">Cybersecurity Professional</a>, <a href="https://theses.hal.science/tel-02416305">PhD.</a>
+# <a href="https://www.linkedin.com/in/pernelle-mensah-916659161">Cloud and Cybersecurity Professional</a>, <a href="https://theses.hal.science/tel-02416305">PhD.</a>
 
 <!--
 **frenzymilk/frenzymilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨‍💻 Cybersecurity Projects:
+## 👨‍💻 Projects:
 
 - <b>Python</b>
   - [Basic email analysis for phishing detection](https://github.com/frenzymilk/email-analysis)
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   - [DNS Exploration](https://github.com/frenzymilk/dns_exploration)
  
 - Cloud
+  - Cloud Resume Challenge : [Frontend](https://github.com/frenzymilk/frontend_cloud_resume_challenge_2025) & [Backend](https://github.com/frenzymilk/backend_cloud_resume_challenge_2025)
   - [SOC deployment using AWS, Terraform and Github action](https://github.com/frenzymilk/soc_automation_project)
   - [Hosting of static HTTPS website using S3and Amzaon CloudFront](https://github.com/frenzymilk/https_static_website)
   - [Serveless lab using DynamoDB, Lambda and API Gateway](https://github.com/frenzymilk/serverless_lab)
