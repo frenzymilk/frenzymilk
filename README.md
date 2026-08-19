@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 
 ## 👨‍💻 Projects:
-
+<!--
 - <b>Python</b>
   - [Basic email analysis for phishing detection](https://github.com/frenzymilk/email-analysis)
   - [Simple network scanning](https://github.com/frenzymilk/network_scanning)
   - [Simple SQL injection scanning](https://github.com/frenzymilk/simple_sql_injection_scanner)
   - [DNS Exploration](https://github.com/frenzymilk/dns_exploration)
- 
+ -->
 - Cloud
   - Cloud Resume Challenge - Fully automated serverless website : [Frontend](https://github.com/frenzymilk/frontend_cloud_resume_challenge_2025) & [Backend](https://github.com/frenzymilk/backend_cloud_resume_challenge_2025)
   - [SOC deployment using AWS, Terraform and Github Actions](https://github.com/frenzymilk/soc_automation_project)
