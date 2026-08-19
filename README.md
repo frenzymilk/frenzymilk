@@ -16,7 +16,50 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨‍💻 Projects:
+---
+
+## 🛡️ About
+
+- ☁️ **Cloud & microservices security** across ~10 years.
+- 🔬 **Detection & behavioral analysis**: designed anomaly-detection approaches that cut microservice incident detection **from days to minutes**.
+- 🧬 **Low-level telemetry with eBPF** for security instrumentation and incident detection.
+- 🕸️ **Attack-graph modeling & risk prioritization** (PhD): chaining real vulnerabilities into attack paths and focusing teams on the highest-impact issues.
+- 🗣️ **Communication**: I translate technical findings into actionable recommendations for technical and non-technical audiences.
+
+---
+
+## 🎯 What I do
+
+| Area | In practice |
+|---|---|
+| **Cloud security** | Posture assessment, misconfiguration & risky-permission analysis, hardening (AWS, OpenStack) |
+| **Detection engineering** | Behavioral analysis, anomaly detection, noise reduction, precision tuning |
+| **Microservices & containers** | Security for Docker/Kubernetes workloads, eBPF telemetry |
+| **Threat modeling** | Attack graphs, attack-path analysis, STRIDE, MITRE ATT&CK mapping |
+| **Risk assessment** | Impact-based prioritization, actionable and audience-aware reporting |
+| **Automation** | Python tooling and low/no-code to remove manual, error-prone work |
+
+## 🧰 Stack & tools
+
+**Cloud**
+`AWS` · `OpenStack` · `SDN`
+
+**Containers & telemetry**
+`Docker` · `Kubernetes` · `eBPF` · `CI/CD`
+
+**Languages**
+`Python` · `Java`
+
+**Security analysis**
+`Anomaly detection` · `Behavioral analysis` · `Attack graphs` · `Threat modeling` · `Risk & vulnerability management` · `Machine learning`
+
+**Frameworks & methods**
+`MITRE ATT&CK` · `STRIDE` · `CIS Benchmarks` · `NIST` · `OWASP`
+
+**Ways of working**
+`Git` · `Puppet` · `Automation (low-code / no-code)`
+
+## 👨‍💻 Featured projects:
 <!--
 - <b>Python</b>
   - [Basic email analysis for phishing detection](https://github.com/frenzymilk/email-analysis)
@@ -31,26 +74,22 @@ Here are some ideas to get you started:
   - [Serveless lab using DynamoDB, Lambda and API Gateway](https://github.com/frenzymilk/serverless_lab)
   - [CI/CD infrastructure deployment on AWS using Terraform](https://github.com/frenzymilk/aws-labs/tree/master)
 
-<!--
-- GRC
-  - [Access management policy example](https://github.com/frenzymilk/access_management_policy_roughDraft)
+---
+
+## 🎓 Research & credentials
+
+- 🎓 **PhD in cybersecurity** (CIFRE, Nokia | CentraleSupélec):  cloud attack-graph modeling.
+  - [Generation and Dynamic Update of Attack Graphs in Cloud Providers Infrastructures](https://theses.hal.science/tel-02416305)
  
-- IaC
-  - [CI/CD infrastructure deployment on AWS using Terraform](https://github.com/frenzymilk/aws-labs/tree/master)
+- 📄 Patents & publications: [link once public — Google Patents / Scholar]. <!-- your patents are public evidence; link them -->
+  - [AJNA: anti-phishing JS-based visual analysis, to mitigate users' excessive trust in SSL/TLS](https://ieeexplore.ieee.org/abstract/document/7809536/)
+  - [Dynamic Topology Extraction in Cloud Infrastructures](https://inria.hal.science/hal-01399251/document)
+  - [Connectivity graph reconstruction for networking cloud infrastructures](https://ieeexplore.ieee.org/abstract/document/8171337/)
+  - [Generation and dynamic update of attack graphs in cloud providers infrastructures](https://inria.hal.science/tel-02416305/)
 
-## Certifications
+- 🏅 **AWS Certified Security – Specialty** · **AWS Cloud Solutions Architect** · **CISSP**
 
-- [CISSP](https://www.credly.com/badges/15b6a2db-7a1c-4429-af30-8e5092582ebc)
--->
-
-## 💬 PhD. Thesis
-- [Generation and Dynamic Update of Attack Graphs in Cloud Providers Infrastructures](https://theses.hal.science/tel-02416305)
-## 💬 Research articles
-
-- [AJNA: anti-phishing JS-based visual analysis, to mitigate users' excessive trust in SSL/TLS](https://ieeexplore.ieee.org/abstract/document/7809536/)
-- [Dynamic Topology Extraction in Cloud Infrastructures](https://inria.hal.science/hal-01399251/document)
-- [Connectivity graph reconstruction for networking cloud infrastructures](https://ieeexplore.ieee.org/abstract/document/8171337/)
-- [Generation and dynamic update of attack graphs in cloud providers infrastructures](https://inria.hal.science/tel-02416305/)
+---
 
 
 
