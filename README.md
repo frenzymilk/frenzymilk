@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   - [Serveless lab using DynamoDB, Lambda and API Gateway](https://github.com/frenzymilk/serverless_lab)
   - [CI/CD infrastructure deployment on AWS using Terraform](https://github.com/frenzymilk/aws-labs/tree/master)
 
+<!--
 - GRC
   - [Access management policy example](https://github.com/frenzymilk/access_management_policy_roughDraft)
  
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 ## Certifications
 
 - [CISSP](https://www.credly.com/badges/15b6a2db-7a1c-4429-af30-8e5092582ebc)
+-->
 
 ## 💬 PhD. Thesis
 - [Generation and Dynamic Update of Attack Graphs in Cloud Providers Infrastructures](https://theses.hal.science/tel-02416305)
