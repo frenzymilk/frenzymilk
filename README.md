@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 - 🎓 **PhD in cybersecurity** (CIFRE, Nokia | CentraleSupélec):  cloud attack-graph modeling.
   - [Generation and Dynamic Update of Attack Graphs in Cloud Providers Infrastructures](https://theses.hal.science/tel-02416305)
  
-- 📄 Patents & publications: [link once public — Google Patents / Scholar]. <!-- your patents are public evidence; link them -->
+- 📄 Patents & publications:. <!-- your patents are public evidence; link them -->
   - [AJNA: anti-phishing JS-based visual analysis, to mitigate users' excessive trust in SSL/TLS](https://ieeexplore.ieee.org/abstract/document/7809536/)
   - [Dynamic Topology Extraction in Cloud Infrastructures](https://inria.hal.science/hal-01399251/document)
   - [Connectivity graph reconstruction for networking cloud infrastructures](https://ieeexplore.ieee.org/abstract/document/8171337/)
